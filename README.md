@@ -10,7 +10,6 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -35,8 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/JohnMwendwa/age-calculator](https://github.com/JohnMwendwa/age-calculator)
-- Live Site URL: [https://johnmwendwa.github.io/age-calculator](https://johnmwendwa.github.io/age-calculator/)
+- Solution URL: [https://github.com/kenpetermaina/age-calculator](https://github.com/kenpetermaina/age-calculator)
 
 ## My process
 
@@ -48,11 +46,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - JavaScript
-
-## Author
-
-- Website - [John Mwendwa](https://johnmwendwa.vercel.app/)
-- Frontend Mentor - [@JohnMwendwa](https://www.frontendmentor.io/profile/JohnMwendwa)
 
 ## Reminder
 
